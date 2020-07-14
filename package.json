@@ -1,0 +1,19 @@
+{
+  "name": "queue-master",
+  "version": "1.0.0",
+  "description": "An app that will help your queue managing simpler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "train"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanselLastima/queue-master.git"
+  },
+  "author": "Hans Lastima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanselLastima/queue-master/issues"
+  },
+  "homepage": "https://github.com/hanselLastima/queue-master#readme"
+}
